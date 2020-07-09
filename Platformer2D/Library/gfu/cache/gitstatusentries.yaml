@@ -1,0 +1,1300 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-07-09T02:11:44.241-07:00
+  initializedAtString: 2020-07-09T00:44:19.996-07:00
+  entries:
+  - path: Platformer2D\.idea\.idea.Platformer2D\.idea\contentModel.xml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\.idea\.idea.Platformer2D\.idea\contentModel.xml
+    projectPath: .idea\.idea.Platformer2D\.idea\contentModel.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\.idea\.idea.Platformer2D\.idea\indexLayout.xml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\.idea\.idea.Platformer2D\.idea\indexLayout.xml
+    projectPath: .idea\.idea.Platformer2D\.idea\indexLayout.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\.idea\.idea.Platformer2D\.idea\vcs.xml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\.idea\.idea.Platformer2D\.idea\vcs.xml
+    projectPath: .idea\.idea.Platformer2D\.idea\vcs.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\.idea\.idea.Platformer2D\.idea\workspace.xml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\.idea\.idea.Platformer2D\.idea\workspace.xml
+    projectPath: .idea\.idea.Platformer2D\.idea\workspace.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Assets\Platformer image.png
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Platformer
+      image.png
+    projectPath: Assets\Platformer image.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Assets\Platformer image.png.meta
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Platformer
+      image.png.meta
+    projectPath: Assets\Platformer image.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Assets\Prefabs\PlayerSquare.prefab
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Prefabs\PlayerSquare.prefab
+    projectPath: Assets\Prefabs\PlayerSquare.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Assets\Scenes\Menu.unity
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Assets\Scenes\Menu.unity.meta
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Scenes\Menu.unity.meta
+    projectPath: Assets\Scenes\Menu.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Assets\Scripts\PlayerController.cs
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Scripts\PlayerController.cs
+    projectPath: Assets\Scripts\PlayerController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Assets\Scripts\UI.meta
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Scripts\UI.meta
+    projectPath: Assets\Scripts\UI.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Assets\Scripts\UI\Menu.meta
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Scripts\UI\Menu.meta
+    projectPath: Assets\Scripts\UI\Menu.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Assets\Scripts\UI\Menu\Play.cs
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Scripts\UI\Menu\Play.cs
+    projectPath: Assets\Scripts\UI\Menu\Play.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Assets\Scripts\UI\Menu\Play.cs.meta
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Scripts\UI\Menu\Play.cs.meta
+    projectPath: Assets\Scripts\UI\Menu\Play.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Assets\Sprites\Platformer image 1.png
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Sprites\Platformer
+      image 1.png
+    projectPath: Assets\Sprites\Platformer image 1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Assets\Sprites\Platformer image 1.png.meta
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Assets\Sprites\Platformer
+      image 1.png.meta
+    projectPath: Assets\Sprites\Platformer image 1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Build\Platformer2D_Data\globalgamemanagers
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\globalgamemanagers
+    projectPath: Build\Platformer2D_Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\globalgamemanagers.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\globalgamemanagers.assets
+    projectPath: Build\Platformer2D_Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\level0
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\level0
+    projectPath: Build\Platformer2D_Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\level1
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\level1
+    projectPath: Build\Platformer2D_Data\level1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\level2
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\level2
+    projectPath: Build\Platformer2D_Data\level2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Assembly-CSharp.dll
+    projectPath: Build\Platformer2D_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.Animation.Runtime.dll
+    projectPath: Build\Platformer2D_Data\Managed\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Build\Platformer2D_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.Common.Runtime.dll
+    projectPath: Build\Platformer2D_Data\Managed\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.PixelPerfect.dll
+    projectPath: Build\Platformer2D_Data\Managed\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Build\Platformer2D_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Build\Platformer2D_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Unity.Mathematics.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Unity.Mathematics.dll
+    projectPath: Build\Platformer2D_Data\Managed\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Build\Platformer2D_Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\Unity.Timeline.dll
+    projectPath: Build\Platformer2D_Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\Managed\UnityEngine.UI.dll
+    projectPath: Build\Platformer2D_Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\resources.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\resources.assets
+    projectPath: Build\Platformer2D_Data\resources.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\sharedassets0.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\sharedassets0.assets
+    projectPath: Build\Platformer2D_Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\sharedassets0.assets.resS
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\sharedassets0.assets.resS
+    projectPath: Build\Platformer2D_Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\sharedassets1.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\sharedassets1.assets
+    projectPath: Build\Platformer2D_Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Build\Platformer2D_Data\sharedassets1.assets.resS
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\sharedassets1.assets.resS
+    projectPath: Build\Platformer2D_Data\sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Build\Platformer2D_Data\sharedassets2.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Build\Platformer2D_Data\sharedassets2.assets
+    projectPath: Build\Platformer2D_Data\sharedassets2.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ArtifactDB
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\Artifacts\01\01076d18a5a658cbab139ebaf74f6882
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\01\01076d18a5a658cbab139ebaf74f6882
+    projectPath: Library\Artifacts\01\01076d18a5a658cbab139ebaf74f6882
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\05\051eba941fa2e3f53909be861edf6278
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\05\051eba941fa2e3f53909be861edf6278
+    projectPath: Library\Artifacts\05\051eba941fa2e3f53909be861edf6278
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\05\058f8b88c1afb749f3134cb2cd57d0f7
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\05\058f8b88c1afb749f3134cb2cd57d0f7
+    projectPath: Library\Artifacts\05\058f8b88c1afb749f3134cb2cd57d0f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\0f\0f497b1ee302e6137ced22af26e6c66d
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\0f\0f497b1ee302e6137ced22af26e6c66d
+    projectPath: Library\Artifacts\0f\0f497b1ee302e6137ced22af26e6c66d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\0f\0fe05134838bd8abf3db6fcc213b9d2d
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\0f\0fe05134838bd8abf3db6fcc213b9d2d
+    projectPath: Library\Artifacts\0f\0fe05134838bd8abf3db6fcc213b9d2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\11\11de65a1123f1f30c8a05a1c30beb87a
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\11\11de65a1123f1f30c8a05a1c30beb87a
+    projectPath: Library\Artifacts\11\11de65a1123f1f30c8a05a1c30beb87a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\12\1251e29cc8893b1da90f71812bf104b6
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\12\1251e29cc8893b1da90f71812bf104b6
+    projectPath: Library\Artifacts\12\1251e29cc8893b1da90f71812bf104b6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\14\14385254bfdec2ac618e15b204585046
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\14\14385254bfdec2ac618e15b204585046
+    projectPath: Library\Artifacts\14\14385254bfdec2ac618e15b204585046
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\1b\1b2a854069d26b0273287c964ec99173
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\1b\1b2a854069d26b0273287c964ec99173
+    projectPath: Library\Artifacts\1b\1b2a854069d26b0273287c964ec99173
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\1b\1b8d4c1e4a69a3b2e32f39924ab009f5
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\1b\1b8d4c1e4a69a3b2e32f39924ab009f5
+    projectPath: Library\Artifacts\1b\1b8d4c1e4a69a3b2e32f39924ab009f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\1e\1e2df8cb64203030e6aa7ada7a58409e
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\1e\1e2df8cb64203030e6aa7ada7a58409e
+    projectPath: Library\Artifacts\1e\1e2df8cb64203030e6aa7ada7a58409e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\26\267f6e397c6a10a8c741603cc8b43308
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\26\267f6e397c6a10a8c741603cc8b43308
+    projectPath: Library\Artifacts\26\267f6e397c6a10a8c741603cc8b43308
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\2d\2d46dfd9b6d5ccf7d72745c5ab64680e
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\2d\2d46dfd9b6d5ccf7d72745c5ab64680e
+    projectPath: Library\Artifacts\2d\2d46dfd9b6d5ccf7d72745c5ab64680e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\30\309a070d4342162c20645dfa1af4dc99
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\30\309a070d4342162c20645dfa1af4dc99
+    projectPath: Library\Artifacts\30\309a070d4342162c20645dfa1af4dc99
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\37\3737f316c7147396fb094d2e4ec64012
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\37\3737f316c7147396fb094d2e4ec64012
+    projectPath: Library\Artifacts\37\3737f316c7147396fb094d2e4ec64012
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\3a\3a13f30784eb762c482c6dd54dd31ca4
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\3a\3a13f30784eb762c482c6dd54dd31ca4
+    projectPath: Library\Artifacts\3a\3a13f30784eb762c482c6dd54dd31ca4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\42\425507661c75dfe00a3ed1d838223898
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\42\425507661c75dfe00a3ed1d838223898
+    projectPath: Library\Artifacts\42\425507661c75dfe00a3ed1d838223898
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\45\455627b39e146d5f00d62047218977c8
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\45\455627b39e146d5f00d62047218977c8
+    projectPath: Library\Artifacts\45\455627b39e146d5f00d62047218977c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\46\462568f7d2f6cb76959b7c7ab01e500e
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\46\462568f7d2f6cb76959b7c7ab01e500e
+    projectPath: Library\Artifacts\46\462568f7d2f6cb76959b7c7ab01e500e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\49\4941830fbeefd34b4123f898385600d1
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\49\4941830fbeefd34b4123f898385600d1
+    projectPath: Library\Artifacts\49\4941830fbeefd34b4123f898385600d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\4c\4cfd0ed6e79aabd0aa3e3a713ee6f43e
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\4c\4cfd0ed6e79aabd0aa3e3a713ee6f43e
+    projectPath: Library\Artifacts\4c\4cfd0ed6e79aabd0aa3e3a713ee6f43e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\4e\4e45d0a5b9d4aca57313abeea595b8eb
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\4e\4e45d0a5b9d4aca57313abeea595b8eb
+    projectPath: Library\Artifacts\4e\4e45d0a5b9d4aca57313abeea595b8eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\50\503aae7210271e984790b9e077df9070
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\50\503aae7210271e984790b9e077df9070
+    projectPath: Library\Artifacts\50\503aae7210271e984790b9e077df9070
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\5d\5d743f946a72ac17cd754fbfc7e84609
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\5d\5d743f946a72ac17cd754fbfc7e84609
+    projectPath: Library\Artifacts\5d\5d743f946a72ac17cd754fbfc7e84609
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\5e\5eeab1314a12cd0eeba26b7da1de3cbe
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\5e\5eeab1314a12cd0eeba26b7da1de3cbe
+    projectPath: Library\Artifacts\5e\5eeab1314a12cd0eeba26b7da1de3cbe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\60\6015c64db926c56fe00d79f289fa6454
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\60\6015c64db926c56fe00d79f289fa6454
+    projectPath: Library\Artifacts\60\6015c64db926c56fe00d79f289fa6454
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\65\65e6f7517992ba8f857c36710d46bb5a
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\65\65e6f7517992ba8f857c36710d46bb5a
+    projectPath: Library\Artifacts\65\65e6f7517992ba8f857c36710d46bb5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\67\679b4ec1979ae8d2728b7f630392c8ca
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\67\679b4ec1979ae8d2728b7f630392c8ca
+    projectPath: Library\Artifacts\67\679b4ec1979ae8d2728b7f630392c8ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\6b\6b6a14f3543246558f781d936ad4b0f5
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\6b\6b6a14f3543246558f781d936ad4b0f5
+    projectPath: Library\Artifacts\6b\6b6a14f3543246558f781d936ad4b0f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\6c\6c72d71af8525f800439e6e5fc45addb
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\6c\6c72d71af8525f800439e6e5fc45addb
+    projectPath: Library\Artifacts\6c\6c72d71af8525f800439e6e5fc45addb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\6c\6cf21fffbf8ebe13791ff2173e624ca7
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\6c\6cf21fffbf8ebe13791ff2173e624ca7
+    projectPath: Library\Artifacts\6c\6cf21fffbf8ebe13791ff2173e624ca7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\6c\6cfc4fc1b55fd77d24e4778bc1890670
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\6c\6cfc4fc1b55fd77d24e4778bc1890670
+    projectPath: Library\Artifacts\6c\6cfc4fc1b55fd77d24e4778bc1890670
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\72\7288bc471c72805621eb71f30f1cc524
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\72\7288bc471c72805621eb71f30f1cc524
+    projectPath: Library\Artifacts\72\7288bc471c72805621eb71f30f1cc524
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\86\86c94fd79f3d3538419a876b01fa7eeb
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\86\86c94fd79f3d3538419a876b01fa7eeb
+    projectPath: Library\Artifacts\86\86c94fd79f3d3538419a876b01fa7eeb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\8a\8a6b3bf498e974f4de3884aec049ea1a
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\8a\8a6b3bf498e974f4de3884aec049ea1a
+    projectPath: Library\Artifacts\8a\8a6b3bf498e974f4de3884aec049ea1a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\8b\8bb1fbf295c0acea017ee3f85f17db51
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\8b\8bb1fbf295c0acea017ee3f85f17db51
+    projectPath: Library\Artifacts\8b\8bb1fbf295c0acea017ee3f85f17db51
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\8d\8d32a44f090fabd7d7fa6de482916218
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\8d\8d32a44f090fabd7d7fa6de482916218
+    projectPath: Library\Artifacts\8d\8d32a44f090fabd7d7fa6de482916218
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\8d\8df2335e1006e7f92a7d3d98fb2d56cb
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\8d\8df2335e1006e7f92a7d3d98fb2d56cb
+    projectPath: Library\Artifacts\8d\8df2335e1006e7f92a7d3d98fb2d56cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\96\9646f3e8f92ff94d44d848122c6aa0c6
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\96\9646f3e8f92ff94d44d848122c6aa0c6
+    projectPath: Library\Artifacts\96\9646f3e8f92ff94d44d848122c6aa0c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\98\98fb8cbc770e628eadff9be1b0ba0277
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\98\98fb8cbc770e628eadff9be1b0ba0277
+    projectPath: Library\Artifacts\98\98fb8cbc770e628eadff9be1b0ba0277
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\99\99b31510130fe9e57b3b8c9110f20ed3
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\99\99b31510130fe9e57b3b8c9110f20ed3
+    projectPath: Library\Artifacts\99\99b31510130fe9e57b3b8c9110f20ed3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\9a\9ac9e7b8175b5d3f0e057681dc9597bc
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\9a\9ac9e7b8175b5d3f0e057681dc9597bc
+    projectPath: Library\Artifacts\9a\9ac9e7b8175b5d3f0e057681dc9597bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\9c\9c95009c69ac170dc80ee034068c6c55
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\9c\9c95009c69ac170dc80ee034068c6c55
+    projectPath: Library\Artifacts\9c\9c95009c69ac170dc80ee034068c6c55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\9e\9e5d9f9ec1ee04a6fc078c765154fd89
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\9e\9e5d9f9ec1ee04a6fc078c765154fd89
+    projectPath: Library\Artifacts\9e\9e5d9f9ec1ee04a6fc078c765154fd89
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\9f\9f101e483f268c59e1eaa0037651f95d
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\9f\9f101e483f268c59e1eaa0037651f95d
+    projectPath: Library\Artifacts\9f\9f101e483f268c59e1eaa0037651f95d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\a6\a6b2c418792c6fc611fc6c32c139102d
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\a6\a6b2c418792c6fc611fc6c32c139102d
+    projectPath: Library\Artifacts\a6\a6b2c418792c6fc611fc6c32c139102d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\a7\a796fce53e39d1896d030d7660e5354a
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\a7\a796fce53e39d1896d030d7660e5354a
+    projectPath: Library\Artifacts\a7\a796fce53e39d1896d030d7660e5354a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\a8\a80ba59174995730efddf49ebab722c1
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\a8\a80ba59174995730efddf49ebab722c1
+    projectPath: Library\Artifacts\a8\a80ba59174995730efddf49ebab722c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\a8\a89b4a4660b54c7e895dbcaccc0c486f
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\a8\a89b4a4660b54c7e895dbcaccc0c486f
+    projectPath: Library\Artifacts\a8\a89b4a4660b54c7e895dbcaccc0c486f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\ab\ab484f3de4512844ffb048d9873139c7
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\ab\ab484f3de4512844ffb048d9873139c7
+    projectPath: Library\Artifacts\ab\ab484f3de4512844ffb048d9873139c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\ad\ad91ff8ff57fa7e58845b84ea46b6523
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\ad\ad91ff8ff57fa7e58845b84ea46b6523
+    projectPath: Library\Artifacts\ad\ad91ff8ff57fa7e58845b84ea46b6523
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\ae\ae2af2de313a36cf36e3156c87963e9e
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\ae\ae2af2de313a36cf36e3156c87963e9e
+    projectPath: Library\Artifacts\ae\ae2af2de313a36cf36e3156c87963e9e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\b2\b22929953dbf045e608c1879e55d8e1d
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\b2\b22929953dbf045e608c1879e55d8e1d
+    projectPath: Library\Artifacts\b2\b22929953dbf045e608c1879e55d8e1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\b3\b3369a0e5d60b495d422aa70c344b94d
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\b3\b3369a0e5d60b495d422aa70c344b94d
+    projectPath: Library\Artifacts\b3\b3369a0e5d60b495d422aa70c344b94d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\b5\b5d7bbccb9098078b7412834b213e4e7
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\b5\b5d7bbccb9098078b7412834b213e4e7
+    projectPath: Library\Artifacts\b5\b5d7bbccb9098078b7412834b213e4e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\bd\bdcbd980add86c046e25eacb1e3d03d5
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\bd\bdcbd980add86c046e25eacb1e3d03d5
+    projectPath: Library\Artifacts\bd\bdcbd980add86c046e25eacb1e3d03d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\c9\c983a87df70ea7cead43a465c240b865
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\c9\c983a87df70ea7cead43a465c240b865
+    projectPath: Library\Artifacts\c9\c983a87df70ea7cead43a465c240b865
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\cf\cf4054e3df5b2fee27ff2483dfa115df
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\cf\cf4054e3df5b2fee27ff2483dfa115df
+    projectPath: Library\Artifacts\cf\cf4054e3df5b2fee27ff2483dfa115df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\d2\d24fde53685594df48a05034861a9c9e
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\d2\d24fde53685594df48a05034861a9c9e
+    projectPath: Library\Artifacts\d2\d24fde53685594df48a05034861a9c9e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\e1\e1f878b7e6844bf8115d4f9e2950042f
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\e1\e1f878b7e6844bf8115d4f9e2950042f
+    projectPath: Library\Artifacts\e1\e1f878b7e6844bf8115d4f9e2950042f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\e8\e80e4e7f1ab4854885f2bf2bbe5c45db
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\e8\e80e4e7f1ab4854885f2bf2bbe5c45db
+    projectPath: Library\Artifacts\e8\e80e4e7f1ab4854885f2bf2bbe5c45db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\ea\ea34aceb7cf6863e30da76707ded5056
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\ea\ea34aceb7cf6863e30da76707ded5056
+    projectPath: Library\Artifacts\ea\ea34aceb7cf6863e30da76707ded5056
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\ee\ee8f255acea36f9413945c7260cab6b3
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\ee\ee8f255acea36f9413945c7260cab6b3
+    projectPath: Library\Artifacts\ee\ee8f255acea36f9413945c7260cab6b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\f5\f5708ec53ea50a35de7d893e8e2d6cf3
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\f5\f5708ec53ea50a35de7d893e8e2d6cf3
+    projectPath: Library\Artifacts\f5\f5708ec53ea50a35de7d893e8e2d6cf3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\f5\f5a84c95d2783ae265c93958d029f0c8
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\f5\f5a84c95d2783ae265c93958d029f0c8
+    projectPath: Library\Artifacts\f5\f5a84c95d2783ae265c93958d029f0c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\Artifacts\f8\f8024328783a898789539cf8ab8c3393
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\f8\f8024328783a898789539cf8ab8c3393
+    projectPath: Library\Artifacts\f8\f8024328783a898789539cf8ab8c3393
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\Artifacts\fc\fc7a72456e2fadb0f64429eee7f87d32
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\Artifacts\fc\fc7a72456e2fadb0f64429eee7f87d32
+    projectPath: Library\Artifacts\fc\fc7a72456e2fadb0f64429eee7f87d32
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\EditorInstance.json
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\expandedItems
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\LastBuild.buildreport
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\globalgamemanagers
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\level0
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\level0
+    projectPath: Library\PlayerDataCache\Win\Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\level1
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\level1
+    projectPath: Library\PlayerDataCache\Win\Data\level1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\level2
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\level2
+    projectPath: Library\PlayerDataCache\Win\Data\level2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\resources.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\resources.assets
+    projectPath: Library\PlayerDataCache\Win\Data\resources.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets1.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets1.assets.resS
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets1.assets.resS
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets2.assets
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\Data\sharedassets2.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets2.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    projectPath: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\ScriptAssemblies\PsdPlugin.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\PsdPlugin.dll
+    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.Mathematics.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.Mathematics.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Platformer2D\Library\ShaderCache\0\098d78774e201959d1707573a920972e.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\0\098d78774e201959d1707573a920972e.bin
+    projectPath: Library\ShaderCache\0\098d78774e201959d1707573a920972e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\3\31f71b89e2c6f224abb010a516fa6dc2.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\3\31f71b89e2c6f224abb010a516fa6dc2.bin
+    projectPath: Library\ShaderCache\3\31f71b89e2c6f224abb010a516fa6dc2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\8\818f44543c835f0b0f4fd0071cdc2c64.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\8\818f44543c835f0b0f4fd0071cdc2c64.bin
+    projectPath: Library\ShaderCache\8\818f44543c835f0b0f4fd0071cdc2c64.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\8\820bbaaa526f6a3832f20ea385b0d7e4.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\8\820bbaaa526f6a3832f20ea385b0d7e4.bin
+    projectPath: Library\ShaderCache\8\820bbaaa526f6a3832f20ea385b0d7e4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\8\86b559731b4edb15e7da10027d0e0f1f.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\8\86b559731b4edb15e7da10027d0e0f1f.bin
+    projectPath: Library\ShaderCache\8\86b559731b4edb15e7da10027d0e0f1f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\8\8b50ff8cd2cae88a6acb75120ffcb691.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\8\8b50ff8cd2cae88a6acb75120ffcb691.bin
+    projectPath: Library\ShaderCache\8\8b50ff8cd2cae88a6acb75120ffcb691.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\a\a415fc5942334412764cdccc90ee4c26.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\a\a415fc5942334412764cdccc90ee4c26.bin
+    projectPath: Library\ShaderCache\a\a415fc5942334412764cdccc90ee4c26.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\a\a76801ce633aa7d2be43b1a890a1708e.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\a\a76801ce633aa7d2be43b1a890a1708e.bin
+    projectPath: Library\ShaderCache\a\a76801ce633aa7d2be43b1a890a1708e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\c\cc9e2e06f3e7126f5b7a680b27137858.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\c\cc9e2e06f3e7126f5b7a680b27137858.bin
+    projectPath: Library\ShaderCache\c\cc9e2e06f3e7126f5b7a680b27137858.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\d\df1f391deb67cecbd39182af990acf94.bin
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\d\df1f391deb67cecbd39182af990acf94.bin
+    projectPath: Library\ShaderCache\d\df1f391deb67cecbd39182af990acf94.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\SourceAssetDB
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\StateCache\Hierarchy\1da939-mainStage.json
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\StateCache\Hierarchy\1da939-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\1da939-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Library\StateCache\Hierarchy\5c64b7-f7a5b12be7d3f7d429.json
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\StateCache\Hierarchy\5c64b7-f7a5b12be7d3f7d429.json
+    projectPath: Library\StateCache\Hierarchy\5c64b7-f7a5b12be7d3f7d429.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\StateCache\Hierarchy\5c64b7-mainStage.json
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\StateCache\Hierarchy\5c64b7-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\5c64b7-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\StateCache\SceneView\235d3a-f7a5b12be7d3f7d429.json
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\StateCache\SceneView\235d3a-f7a5b12be7d3f7d429.json
+    projectPath: Library\StateCache\SceneView\235d3a-f7a5b12be7d3f7d429.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\StateCache\SceneView\235d3a-mainStage.json
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\StateCache\SceneView\235d3a-mainStage.json
+    projectPath: Library\StateCache\SceneView\235d3a-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Library\StateCache\SceneView\3a0b2d-mainStage.json
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Library\StateCache\SceneView\3a0b2d-mainStage.json
+    projectPath: Library\StateCache\SceneView\3a0b2d-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Packages\packages-lock.json
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Platformer2D\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityLockfile
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-17b69d369ab7ea54cb163563daa5ed5d
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-17b69d369ab7ea54cb163563daa5ed5d
+    projectPath: Temp\UnityTempFile-17b69d369ab7ea54cb163563daa5ed5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-20c1cd6ed50fd9a41a8780daeed4c462
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-20c1cd6ed50fd9a41a8780daeed4c462
+    projectPath: Temp\UnityTempFile-20c1cd6ed50fd9a41a8780daeed4c462
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-3939f9de917df124eb628dcee02755f2
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-3939f9de917df124eb628dcee02755f2
+    projectPath: Temp\UnityTempFile-3939f9de917df124eb628dcee02755f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-3eccd9fefdd18da47bb1a95e3cecba88
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-3eccd9fefdd18da47bb1a95e3cecba88
+    projectPath: Temp\UnityTempFile-3eccd9fefdd18da47bb1a95e3cecba88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-5326d3903b9fc2d43a3ae34c549aad42
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-5326d3903b9fc2d43a3ae34c549aad42
+    projectPath: Temp\UnityTempFile-5326d3903b9fc2d43a3ae34c549aad42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-54a0acb39b24a1248add6352aeaa7e75
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-54a0acb39b24a1248add6352aeaa7e75
+    projectPath: Temp\UnityTempFile-54a0acb39b24a1248add6352aeaa7e75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-609df76f043e99643b5a87d4374b032c
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-609df76f043e99643b5a87d4374b032c
+    projectPath: Temp\UnityTempFile-609df76f043e99643b5a87d4374b032c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-8e5d258dec9b1ee4f9705dfc88ee9c13
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-8e5d258dec9b1ee4f9705dfc88ee9c13
+    projectPath: Temp\UnityTempFile-8e5d258dec9b1ee4f9705dfc88ee9c13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-b13c4aac04b868c4bb94d9cf4659aaf5
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-b13c4aac04b868c4bb94d9cf4659aaf5
+    projectPath: Temp\UnityTempFile-b13c4aac04b868c4bb94d9cf4659aaf5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Platformer2D\Temp\UnityTempFile-f9e0c84997ad99e4b9982acb6601a627
+    fullPath: C:\Users\mindl\Documents\GitHub\2DPlatformer\Platformer2D\Temp\UnityTempFile-f9e0c84997ad99e4b9982acb6601a627
+    projectPath: Temp\UnityTempFile-f9e0c84997ad99e4b9982acb6601a627
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
