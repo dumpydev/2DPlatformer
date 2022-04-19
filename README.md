@@ -1,5 +1,5 @@
 # 2D Platformer
-[https://img.shields.io/github/license/dumpydev/2DPlatformer]
+ <img src="https://img.shields.io/github/license/dumpydev/2DPlatformer" />
 **What is this?**
 This is a 2D Platformer that I made.
 **Why?**
