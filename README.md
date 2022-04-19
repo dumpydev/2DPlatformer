@@ -1,5 +1,8 @@
 # 2D Platformer
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Apache](https://img.shields.io/github/license/dumpydev/2DPlatformer)](https://img.shields.io/github/license/dumpydev/2DPlatformer)
+
+
 **What is this?**
 This is a 2D Platformer that I made.
 **Why?**
